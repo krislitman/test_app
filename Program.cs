@@ -5,13 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestApp
+namespace App
 {
-    class Program
+    class App
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("My first app");
+            Console.WriteLine("\n\nPress enter to continue\n");
+            Console.ReadLine();
         }
     }
 }
