@@ -11,6 +11,8 @@ namespace App
     {
         static void Main(string[] args)
         {
+            Console.Title = "ATM App";
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("My first app");
             Console.WriteLine("\n\nPress enter to continue\n");
             Console.ReadLine();
