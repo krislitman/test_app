@@ -1,0 +1,15 @@
+/Users/krislitman/Code_Practice/C#/test_app/bin/Debug/net6.0/test_app
+/Users/krislitman/Code_Practice/C#/test_app/bin/Debug/net6.0/test_app.deps.json
+/Users/krislitman/Code_Practice/C#/test_app/bin/Debug/net6.0/test_app.runtimeconfig.json
+/Users/krislitman/Code_Practice/C#/test_app/bin/Debug/net6.0/test_app.dll
+/Users/krislitman/Code_Practice/C#/test_app/bin/Debug/net6.0/test_app.pdb
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.csproj.AssemblyReference.cache
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.AssemblyInfoInputs.cache
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.AssemblyInfo.cs
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.csproj.CoreCompileInputs.cache
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.dll
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/refint/test_app.dll
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.pdb
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/test_app.genruntimeconfig.cache
+/Users/krislitman/Code_Practice/C#/test_app/obj/Debug/net6.0/ref/test_app.dll
